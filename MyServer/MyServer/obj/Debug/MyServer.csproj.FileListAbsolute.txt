@@ -1,0 +1,36 @@
+F:\program C#\Test\MyServer\MyServer\bin\Debug\MyServer.exe.config
+F:\program C#\Test\MyServer\MyServer\bin\Debug\MyServer.exe
+F:\program C#\Test\MyServer\MyServer\bin\Debug\MyServer.pdb
+F:\program C#\Test\MyServer\MyServer\obj\Debug\MyServer.csprojResolveAssemblyReference.cache
+F:\program C#\Test\MyServer\MyServer\obj\Debug\MyServer.Form1.resources
+F:\program C#\Test\MyServer\MyServer\obj\Debug\MyServer.Properties.Resources.resources
+F:\program C#\Test\MyServer\MyServer\obj\Debug\MyServer.csproj.GenerateResource.Cache
+F:\program C#\Test\MyServer\MyServer\obj\Debug\MyServer.exe
+F:\program C#\Test\MyServer\MyServer\obj\Debug\MyServer.pdb
+F:\program for C#\MyServer\MyServer\bin\Debug\MyServer.exe.config
+F:\program for C#\MyServer\MyServer\obj\Debug\MyServer.exe
+F:\program for C#\MyServer\MyServer\obj\Debug\MyServer.pdb
+F:\program for C#\MyServer\MyServer\bin\Debug\MyServer.exe
+F:\program for C#\MyServer\MyServer\bin\Debug\MyServer.pdb
+F:\program for C#\MyServer\MyServer\obj\Debug\MyServer.csprojResolveAssemblyReference.cache
+F:\program for C#\MyServer\MyServer\obj\Debug\MyServer.Form1.resources
+F:\program for C#\MyServer\MyServer\obj\Debug\MyServer.Properties.Resources.resources
+F:\program for C#\MyServer\MyServer\obj\Debug\MyServer.csproj.GenerateResource.Cache
+F:\program C#\MyServer\MyServer\bin\Debug\MyServer.exe.config
+F:\program C#\MyServer\MyServer\obj\Debug\MyServer.exe
+F:\program C#\MyServer\MyServer\obj\Debug\MyServer.pdb
+F:\program C#\MyServer\MyServer\bin\Debug\MyServer.exe
+F:\program C#\MyServer\MyServer\bin\Debug\MyServer.pdb
+F:\program C#\MyServer\MyServer\obj\Debug\MyServer.csprojResolveAssemblyReference.cache
+F:\program C#\MyServer\MyServer\obj\Debug\MyServer.Form1.resources
+F:\program C#\MyServer\MyServer\obj\Debug\MyServer.Properties.Resources.resources
+F:\program C#\MyServer\MyServer\obj\Debug\MyServer.csproj.GenerateResource.Cache
+C:\Users\立振\Desktop\Server\MyServer\MyServer\bin\Debug\MyServer.exe.config
+C:\Users\立振\Desktop\Server\MyServer\MyServer\obj\Debug\MyServer.exe
+C:\Users\立振\Desktop\Server\MyServer\MyServer\obj\Debug\MyServer.pdb
+C:\Users\立振\Desktop\Server\MyServer\MyServer\bin\Debug\MyServer.exe
+C:\Users\立振\Desktop\Server\MyServer\MyServer\bin\Debug\MyServer.pdb
+C:\Users\立振\Desktop\Server\MyServer\MyServer\obj\Debug\MyServer.csprojResolveAssemblyReference.cache
+C:\Users\立振\Desktop\Server\MyServer\MyServer\obj\Debug\MyServer.Form1.resources
+C:\Users\立振\Desktop\Server\MyServer\MyServer\obj\Debug\MyServer.Properties.Resources.resources
+C:\Users\立振\Desktop\Server\MyServer\MyServer\obj\Debug\MyServer.csproj.GenerateResource.Cache

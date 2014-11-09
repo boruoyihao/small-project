@@ -1,0 +1,5 @@
+F:\program C#\TestServer\TestServer\bin\TestServer.dll
+F:\program C#\TestServer\TestServer\bin\TestServer.pdb
+F:\program C#\TestServer\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
+F:\program C#\TestServer\TestServer\obj\Debug\TestServer.dll
+F:\program C#\TestServer\TestServer\obj\Debug\TestServer.pdb
